@@ -1,0 +1,4 @@
+Name,IP,Status
+web-01,10.0.1.10,running
+web-02,10.0.1.11,running
+api-01,10.0.2.10,stopped
